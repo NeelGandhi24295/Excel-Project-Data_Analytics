@@ -1,4 +1,4 @@
-# My Excel Project on Data Job Market Analytics 🛠️
+# Excel Project on Data-Related Job Market 🛠️
 
 This project serves as a guide for freshers like me to understand the essential skills, salary expectations, and job opportunities in the data domain using Excel, one of the most powerful and industry-friendly tools.
 
