@@ -6,8 +6,7 @@
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from [Luke Barousse Hugging Face Account](https://huggingface.co/datasets/lukebarousse/data_jobs), which provides a foundation for analyzing the trends using this powerful Excel tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
-
+The data is sourced from [Luke Barousse Hugging Face Account](https://huggingface.co/datasets/lukebarousse/data_jobs), serving as a foundation for analyzing industry trends using this powerful Excel tool. It includes detailed insights on job titles, salaries, locations, and key skills, providing a comprehensive view of the data job market.
 ### Dashboard File
 My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
 
